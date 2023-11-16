@@ -1,18 +1,11 @@
 {
     "workbench.colorCustomizations": {
-        "activityBar.background": "#1c1c1c",
         "activityBar.border": "#444444",
-        "activityBar.foreground": "#FFFFFF",
         "sideBar.background": "#1c1c1c",
         "sideBar.foreground": "#FFFFFF",
-        "sideBar.border": "#444444",
         "editor.background": "#151515",
-        "statusBar.background": "#292d33",
-        "statusBar.foreground": "#FFFFFF",
-        "statusBar.border": "#444444",
         "panel.background": "#1c1c1c",
         "panel.foreground": "#FFFFFF",
-        "panel.border": "#444444",
         "tab.activeBackground": "#444444",
         "outline-map.color": {
             "visibleRange": "var(--vscode-scrollbarSlider-background)",
